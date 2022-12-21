@@ -1,0 +1,9 @@
+external:
+  http:
+    getEmployee:
+      url: https://dummy.restapiexample.com/api/v1/employees
+      method: GET
+    createEmployee:
+      url: https://dummy.restapiexample.com/api/v1/create
+      method: POST
+    

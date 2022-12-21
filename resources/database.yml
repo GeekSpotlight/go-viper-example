@@ -1,0 +1,5 @@
+database:
+  host: localhost
+  port: 1433
+  user: tgc_admin
+  password: abcd1234
